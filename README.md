@@ -1,26 +1,25 @@
-######GSOC 2025:    spinebil: Package to provide diagnostics for projection pursuit
+***GSOC 2025:    spinebil: Package to provide diagnostics for projection pursuit***
 
 **This repository contains my submissions for hard task for the "spinebil: Package to provide diagnostics for projection pursuit" project under Google Summer of Code 2025.**
 
-
-***Task Submission:***
 
 *Hard Task Implementation*
 
 Stringy Index Simulation
 This repository provides a simulation to explore the minimum and maximum values observed for various 2D patterns using the stringy index from the tourr package. The stringy index measures the linear structure of data based on PCA eigenvalues.
 
+
 ***Overview***
 *The goal of this project is to understand the behavior and range of the stringy index for different data patterns. The simulation:*
 
--Creates a custom stringy index function based on PCA eigenvalues.
--Tests this function against five distinct 2D patterns:
-    Uniform noise
-    Clustered data
-    Linear data with noise
-    Perfect linear data
-    Circular data
--Reports the expected theoretical range (0.5 to 1.0) and validates this through simulation.
+    Creates a custom stringy index function based on PCA eigenvalues.
+    Tests this function against five distinct 2D patterns:
+        Uniform noise
+        Clustered data
+        Linear data with noise
+        Perfect linear data
+        Circular data
+    Reports the expected theoretical range (0.5 to 1.0) and validates this through simulation.
 
 ***Usage***
 *To run the simulation:*
