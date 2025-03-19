@@ -1,9 +1,9 @@
-##GSOC 2025:    spinebil: Package to provide diagnostics for projection pursuit**
+######GSOC 2025:    spinebil: Package to provide diagnostics for projection pursuit
 
 **This repository contains my submissions for hard task for the "spinebil: Package to provide diagnostics for projection pursuit" project under Google Summer of Code 2025.**
 
 
-#***Task Submission:***
+***Task Submission:***
 
 *Hard Task Implementation*
 
